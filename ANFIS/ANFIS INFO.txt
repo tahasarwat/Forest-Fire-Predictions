@@ -1,0 +1,61 @@
+ANFIS info: 
+	Number of nodes: 412
+	Number of linear parameters: 200
+	Number of nonlinear parameters: 360
+	Total number of parameters: 560
+	Number of training data pairs: 86
+	Number of checking data pairs: 18
+	Number of fuzzy rules: 20
+
+
+Start training ANFIS ...
+
+   1 	 1.9956e-05 	 0.673719
+   2 	 2.51021e-05 	 0.672823
+
+Designated epoch number reached --> ANFIS training completed at epoch 2.
+
+Minimal training RMSE = 0.000020
+Minimal checking RMSE = 0.672823
+
+ANFIS info: 
+	Number of nodes: 412
+	Number of linear parameters: 200
+	Number of nonlinear parameters: 360
+	Total number of parameters: 560
+	Number of training data pairs: 86
+	Number of checking data pairs: 18
+	Number of fuzzy rules: 20
+
+Warning: number of data is smaller than number of modifiable parameters
+
+Start training ANFIS ...
+
+   1 	 1.9956e-05 	 0.673719
+   2 	 2.51021e-05 	 0.672823
+
+Designated epoch number reached --> ANFIS training completed at epoch 2.
+
+Minimal training RMSE = 0.000020
+Minimal checking RMSE = 0.672823
+
+ANFIS info: 
+	Number of nodes: 412
+	Number of linear parameters: 200
+	Number of nonlinear parameters: 360
+	Total number of parameters: 560
+	Number of training data pairs: 86
+	Number of checking data pairs: 18
+	Number of fuzzy rules: 20
+
+Warning: number of data is smaller than number of modifiable parameters
+
+Start training ANFIS ...
+
+   1 	 1.9956e-05 	 0.673719
+   2 	 2.51021e-05 	 0.672823
+
+Designated epoch number reached --> ANFIS training completed at epoch 2.
+
+Minimal training RMSE = 0.000020
+Minimal checking RMSE = 0.672823
